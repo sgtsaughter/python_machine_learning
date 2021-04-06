@@ -1,3 +1,11 @@
+# Import Data
+# Clean Data
+# Split the Data into Training/Test Sets
+# Create a Model
+# Train the Model
+# Make Predictions
+# Evaluate and Improve
+
 These scripts are meant to be run in Jupyter in the following order
 1. machine_learning_accuracy.py
 2. machine_learning_train_and_save_model.py
